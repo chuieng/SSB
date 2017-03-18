@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SSB</string>
+    <string name="app_title">Singapore Savings Bonds</string>
+    <string name="rate_title">Average return per year (10yrs)</string>
+    <string name="ave_rate">%</string>
+    <string name="application_period">Application Period:</string>
+    <string name="bond_id">Bond Id:</string>
+    <string name="issue_date">Issue Date</string>
+
+</resources>
