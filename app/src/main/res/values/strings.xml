@@ -7,4 +7,8 @@
     <string name="bond_id">Bond Id:</string>
     <string name="issue_date">Issue Date</string>
 
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_home">Home</string>
+    <string name="title_historyGraph">History Graph</string>
+
 </resources>
